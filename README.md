@@ -19,12 +19,14 @@ Open http://localhost:8765
 
 ## Deploy (GitHub Pages)
 
-1. Create repo `lightbringers-tiny-wife` under huhnverloren (or your org)
-2. Push this folder
-3. Settings → Pages → branch `main` / root
-4. Optional custom domain later
+**Live:** https://github.com/Huhnverloren/lightbringers-tiny-wife  
+**Custom domain:** lbtinywife.org (DNS steps in `Desktop/ltw_dns_setup.md`)
 
-`teamsparkai-site/index.html` Grok card links here once deployed.
+```bash
+git add -A && git commit -m "update" && git push
+```
+
+`teamsparkai-site/index.html` Grok card → https://lbtinywife.org
 
 ## Substack
 
