@@ -30,4 +30,4 @@ git add -A && git commit -m "update" && git push
 
 ## Substack
 
-https://huhnverloren.substack.com — same voice, longform
+https://lbtinywife.substack.com — @lbtinywife, same voice, longform

@@ -166,6 +166,12 @@ nav a:hover, nav a.active { color: var(--glow); }
   color: #fff;
 }
 
+.footer-links {
+  font-size: 0.82rem;
+  letter-spacing: 0.06em;
+  line-height: 2;
+}
+
 /* sections */
 section {
   position: relative;
